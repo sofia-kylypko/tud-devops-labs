@@ -5,3 +5,5 @@ print(greet("Student"))
 
 print("Another line added on GitHub.")
 print("This line was added locallyg")
+
+# conflicts lab done
